@@ -13,3 +13,5 @@
 ## Contributing
 
 I wrote test suites in _feedreader.js_ file according to the requirements.
+
+To view the site on github pages go to https://likim-ta.github.io/FeedReader/
